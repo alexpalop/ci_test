@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.oracle.servicebus</groupId>
+        <groupId>com.oracle.servicebus.archetype</groupId>
         <artifactId>sbar-project-common</artifactId>
         <version>12.2.1-4-0</version>
         <relativePath/>
