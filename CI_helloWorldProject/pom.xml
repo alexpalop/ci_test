@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.oracle.servicebus</groupId>
         <artifactId>sbar-project-common</artifactId>
-        <version>12.2.1-4-0</version>
+        <version>12.2.1-3-0</version>
         <relativePath/>
     </parent>
 
@@ -17,7 +17,7 @@
     <packaging>sbar</packaging>
 
     <description/>
-    <build>
+    <!--build>
       <plugins>
         <plugin>
           <groupId>com.oracle.servicebus.plugin</groupId>
@@ -31,5 +31,5 @@
           </configuration>
         </plugin>
       </plugins>
-    </build>
+    </build-->
 </project>
